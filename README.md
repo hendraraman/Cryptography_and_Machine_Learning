@@ -31,9 +31,9 @@ To create cipher text from plain text (several books are used here to generate t
 # Java Code
 ## Parallel Key Search in Java
 
-## This Java code demonstrates the efficiency of parallel execution in finding a key through brute-force methods. 
-## By employing threads, the code executes multiple search operations simultaneously, resulting in significant time savings compared to serial execution.
-## This parallel approach maximizes computational resources and minimizes redundant computation, ultimately optimizing performance.
-## Therefore, the execution stops when a thread finds out the correct key and the execution time difference between serial and parallel code is very much significant.
+This Java code demonstrates the efficiency of parallel execution in finding a key through brute-force methods. 
+By employing threads, the code executes multiple search operations simultaneously, resulting in significant time savings compared to serial execution.
+This parallel approach maximizes computational resources and minimizes redundant computation, ultimately optimizing performance.
+Therefore, the execution stops when a thread finds out the correct key and the execution time difference between serial and parallel code is very much significant.
 
 
